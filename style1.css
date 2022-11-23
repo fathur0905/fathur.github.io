@@ -1,0 +1,72 @@
+/* bingkai foto */
+
+.satu {
+    border: 2px solid white;
+    border-radius: 100px;
+}
+
+
+/* atas dan garis */
+
+div {
+    background-color: white;
+    border-bottom-style: solid;
+    border-bottom-color: silver;
+    border-bottom-width: 10px;
+    height: 70px;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+
+/* tombol */
+
+.kelas1 {
+    font-size: 15px;
+    border: 2px solid black;
+    padding: 0px 30px 5px 5px;
+    background-color: gray;
+    text-decoration: none;
+    color: black;
+}
+
+
+/* cahaya */
+
+.kelas1:hover {
+    opacity: 0.9;
+}
+
+.tabel {
+    border: 2px solid white;
+    font-size: 15px;
+    width: 800px;
+    align-content: center;
+    margin: 0 auto;
+    background-image: url("https://res.cloudinary.com/fathur0905/image/upload/v1669168944/WhatsApp_Image_2022-11-23_at_09.01.27_h2qusz.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+/* tombol kontak */
+
+.kelas:hover {
+    opacity: 0.5;
+}
+
+.kelas {
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    background-image: url("https://res.cloudinary.com/fathur0905/image/upload/v1669166783/WhatsApp_Image_2022-11-23_at_08.20.33_lt1cdk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
