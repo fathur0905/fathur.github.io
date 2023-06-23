@@ -8,7 +8,7 @@ die();
 ?>
 <?php
 
-$alexhost = 'emailmu@gmail.com'; // EMAIL KAMU
+$alexhost = 'fathurrahman09052002@gmail.com'; // EMAIL KAMU
 
 $download = 'tokoalexhost.com'; // Tempat download SC Trusted
 
